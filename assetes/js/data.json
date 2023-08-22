@@ -1,4 +1,3 @@
-
 [
     {
       "id": 1,
@@ -28,7 +27,7 @@
       "firstName": "Emma",
       "lastName": "Stone",
       "profilePicture":
-        "https://interesnyefakty.org/wp-content/uploads/emma-stoun.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Emma_Stone_at_he_39th_Mill_Valley_Film_Festival_%28cropped%29.jpg/320px-Emma_Stone_at_the_39th_Mill_Valley_Film_Festival_%28cropped%29.jpg",
       "contacts": [
         "https://www.facebook.com/DwayneJohnson",
         "https://www.instagram.com/therock/?hl=ru"
@@ -36,7 +35,7 @@
     },
     {
       "id": 4,
-      "firstName": "Noname",
+      "firstName": "Somebody",
       "lastName": "Tuffak",
       "profilePicture": null,
       "contacts": [
@@ -69,7 +68,7 @@
     },
     {
       "id": 6,
-      "firstName": "Evgeniy",
+      "firstName": "Yevgeny",
       "lastName": "Ponasenkov",
       "profilePicture":
         "https://www.factroom.ru/wp-content/uploads/2019/06/10-faktov-o-evgenii-ponasenkove-kotoryj-svodit-vsekh-s-uma-1250x883.jpg",
@@ -80,7 +79,7 @@
     },
     {
       "id": 7,
-      "firstName": "",
+      "firstName": "Daniel",
       "lastName": "Day-Lewis",
       "profilePicture":
         "https://i2.wp.com/comicbookdebate.com/wp-content/uploads/2019/07/There20will20be20blood202-750x460.jpg?resize=750%2C460&ssl=1",
@@ -88,18 +87,6 @@
         "https://www.facebook.com/JasonStatham/",
         "https://twitter.com/realjstatham",
         "https://www.instagram.com/jasonstatham/?hl=ru"
-      ]
-    },
-    {
-      "id": 8,
-      "firstName": "Brad",
-      "lastName": "Pitt",
-      "profilePicture":
-        "https://teleprogramma.pro/sites/default/files/styles/author_300x400/public/text-images/2022-10/new-globallook_1665244228_1665244913.jpg?itok=qMeO3CW6",
-      "contacts": [
-
-        "https://twitter.com/BradPittWeb",
-        "https://www.instagram.com/bradpittofflcial/"
       ]
     }
   ]
